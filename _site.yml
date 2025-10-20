@@ -1,0 +1,21 @@
+name: "scProteomics-pipeline-tutorial"
+output_dir: "docs"
+navbar:
+    title: "scProteomics Tutorial"
+      left:
+            - text: "Home"
+                  href: index.html
+                      - text: "MSFragger"
+                            href: msfragger.html
+                                - text: "FlashLFQ + PIP-ECHO"
+                                      href: flashlfq_pipecho.html
+                                          - text: "limpa"
+                                                href: limpa.html
+                                                    - text: "Full Workflow"
+                                                          href: full_pipeline.html
+                                                          output:
+                                                              html_document:
+                                                                    theme: readable
+                                                                        toc: true
+                                                                            toc_depth: 2
+                                                                            
