@@ -8,7 +8,9 @@ MetaMorpheus Setup
 - Output: `AllPeptides.psmtsv`, `AllProteinGroups.psmtsv`, `AllPSMs.psmtsv`
 
 ## Walkthrough:
-Databases: Drag and drop `.fasta` database and `+ADD DEFAULT CONTAMINANTS`
+Databases: Drag and drop `.fasta`, or `.xml` database and `+ADD DEFAULT CONTAMINANTS`
+- Databases for the target species can be downloaded from [UniProt](https://www.uniprot.org/)
+- the `.xml` database formats extends the `.fasta` file by including annotated post-translational modifications (PTMs) collected from literature sources
 ![Database](../assets/images/MM_Database.png)
 
 Spectra: Drag and drop `.raw` spectra files
