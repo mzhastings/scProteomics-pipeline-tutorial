@@ -12,7 +12,7 @@ Identifications: Drag and drop  `AllPeptides_Renamed.psmtsv`, `AllPSMs_Renamed.p
 ![Identifications](../assets/images/FL_Identifications.png)
 
 Spectra: Drag and drop `.mzML` spectra files from MetaMorpheus Calibration task
-- Design an `ExperimentalDesign.tsv` file in the same folder as the `.mzML` files or manually edit `Condition`, `Sample`, `Fraction`, and `Replicate` within the GUI. After an initial FlashLFQ run, an ExperimentalDesign.tsv will be automatically created. 
+- Design an `ExperimentalDesign.tsv` file in the same folder as the `.mzML` files or manually edit `Condition`, `Sample`, `Fraction`, and `Replicate` within the GUI. After an initial FlashLFQ run, an Experimental Design file will be automatically created. 
 ![Spectra](../assets/images/FL_Spectra.png)
 
 Settings: Defaults and selection for `Peptide-identity-propagation (Match-between-runs)` at 0.01 PIP FDR Cutoff
