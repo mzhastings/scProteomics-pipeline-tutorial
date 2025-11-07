@@ -26,4 +26,4 @@ Tasks:
 Run: `RUN METAMORPHEUS` change output folder if desired
 ![Run](../assets/images/MM_Run.png)
 
-[Next up: Quant with FlashLFQ + PIP-ECHO](./flashlfq_pipecho.md)
+Next up: [Quant with FlashLFQ + PIP-ECHO](./flashlfq_pipecho.md)

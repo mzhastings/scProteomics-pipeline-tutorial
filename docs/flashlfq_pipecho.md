@@ -24,4 +24,4 @@ Run: `RUN FLASHLFQ` change output folder if desired
 
 > Reference: [*Improved detection of differentially abundant proteins through FDR-control of peptide-identity-propagation*](https://pubs.acs.org/doi/full/10.1021/acs.jproteome.5c00065)
 
-[Next up: DEA with limpa](./limpa.md)
+Next up: [DEA with limpa](./limpa.md)
