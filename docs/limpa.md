@@ -24,3 +24,5 @@ y.protein <- dpcQuant(y.peptide, "ProteinGroup", dpc = dpcfit, verbose = TRUE)
 ```
 
 > Paper: [*Quantification and differential analysis of mass spectrometry proteomics data with probabilistic recovery of information from missing values*](https://www.biorxiv.org/content/10.1101/2025.04.28.651125v1.full)
+
+Finished! Return to [home](../README.md)
